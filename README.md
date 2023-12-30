@@ -1,5 +1,5 @@
 # Sarra
-👋 Hi, I’m Sarra Gorbenko/Kulik. Recently married!
+👋 Hi, I’m Sarra Gorbenko/Kulik.
 - 👀 I’m interested in program management and frontend development.
 - 🌱 I’m currently learning database management & data structures.
       -- I am currently studying at Seattle Pacific University, will be graduating in June '24.
